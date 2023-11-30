@@ -1,0 +1,19 @@
+Nenhum estudante encontrado.
+Planeta com mais vida: C
+Planetas que mais morreram: C#
+Quadrante com mais bugs: 1
+Quadrante com mais devs: 1
+Total de instantes analizados: 189374
+Velocidade Média dos Planetas:
+Python: 3.3255409929557382
+JavaScript: 1.7721862557690073
+Ruby: 0.9293408810079525
+PHP: 1.1372046849092272
+C#: 0.4255600029571113
+C++: 1.1603071171332917
+C: 6.203660481375479
+
+Total de bugs encontrados: 62627840
+Total de devs encontrados: 64034245
+Total de horas passadas: 194333869
+Total de anos passados: 554727412
