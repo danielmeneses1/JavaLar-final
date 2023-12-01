@@ -10,8 +10,6 @@ public class CelulaVisual {
     public JLabel label;
     private int x;
     private int y;
-    private Bug bug;
-    private Dev dev;
 
     public CelulaVisual(int linha, int coluna, JLabel label) {
         this.x = linha;
@@ -31,13 +29,6 @@ public class CelulaVisual {
         return label;
     }
 
-    public Bug getBug() {
-        return bug;
-    }
-
-    public Dev getDev() {
-        return dev;
-    }
 
     @Override
     public boolean equals(Object o) {

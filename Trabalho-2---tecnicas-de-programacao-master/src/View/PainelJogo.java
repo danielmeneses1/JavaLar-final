@@ -20,13 +20,10 @@ public class PainelJogo extends JPanel {
     public ArrayList<CelulaVisual> listaCelulas = new ArrayList<CelulaVisual>();
     List<Bug> bugs;
     List<Dev> devs;
-    public int quantidade = 0;
     public Plano plano;
 
     public PainelJogo(Plano plano) {
-        plano.preencherBugs(quantidade);
-        plano.preencherDevs(quantidade);
-        planetas = plano.getPlanetas();
+    	planetas = plano.getPlanetas();
         bugs = plano.getBugs();
         devs = plano.getDevs();
         setLayout(new GridLayout(LINHAS, COLUNAS));

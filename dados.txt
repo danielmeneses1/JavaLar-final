@@ -3,17 +3,17 @@ Planeta com mais vida: C
 Planetas que mais morreram: C#
 Quadrante com mais bugs: 1
 Quadrante com mais devs: 1
-Total de instantes analizados: 204975
+Total de instantes analizados: 205019
 Velocidade Média dos Planetas:
-Python: 3.3770411025734846
-JavaScript: 1.852225881205025
-Ruby: 1.0066203195511647
-PHP: 1.175767776558117
-C#: 0.454128552262471
-C++: 1.169630442736919
-C: 6.476506891084279
+Python: 3.3768772650339725
+JavaScript: 1.8523161267980042
+Ruby: 1.0067603490408206
+PHP: 1.175798340641599
+C#: 0.45423594886327606
+C++: 1.1696720791731499
+C: 6.476565586604169
 
-Total de bugs encontrados: 71294703
-Total de devs encontrados: 73116373
-Total de horas passadas: 234104291
-Total de anos passados: 587967553
+Total de bugs encontrados: 71294842
+Total de devs encontrados: 73116533
+Total de horas passadas: 234344033
+Total de anos passados: 587969592

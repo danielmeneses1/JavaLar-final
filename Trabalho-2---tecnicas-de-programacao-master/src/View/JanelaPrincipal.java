@@ -12,7 +12,6 @@ import java.awt.event.ActionListener;
 
 
 public class JanelaPrincipal extends JFrame {
-    private int momento = 1;
     private Plano plano = new Plano();
     private PainelJogo painelJogo = new PainelJogo(plano);
     private PainelBotoes painelBotoes = new PainelBotoes(plano, painelJogo);

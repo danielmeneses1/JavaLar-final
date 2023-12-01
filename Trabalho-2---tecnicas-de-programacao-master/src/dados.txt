@@ -1,0 +1,20 @@
+Estudante com mais envios: Pablo
+Planetas que mais morreram: Earth,
+Planeta com mais vida: Jupiter
+Quadrante com mais bugs: Quadrante A
+Quadrante com mais devs: Quadrante B
+Total de instantes analizados: 1000
+Velocidade Média dos Planetas:
+Python: 20.5
+JavaScript: 15.0
+Ruby: 18.7
+PHP: 22.2
+C#: 25.5
+C++: 19.8
+C: 17.3
+
+Total de bugs encontrados: 50
+Total de devs encontrados: 30
+Total de horas passadas: 500
+Total de anos passados: 10
+Relatório gerado com sucesso!

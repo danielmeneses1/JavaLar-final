@@ -4,6 +4,11 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class DbConnector {
+	
+//	private String HOST = "localhost";
+//	private String banco = "javalar";
+//	private String usuario = "root";
+//	private String senha = "root";
     private String HOST = "da_java.mysql.dbaas.com.br";
     private String banco = "da_java";
     private String usuario = "da_java";

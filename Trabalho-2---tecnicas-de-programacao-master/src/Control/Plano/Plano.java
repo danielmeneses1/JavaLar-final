@@ -135,6 +135,7 @@ public class  Plano {
         instanteAtual++;
         verificarQuadranteBugs();
         verificarQuadranteDevs();
+        System.out.println();
         
     }
 
